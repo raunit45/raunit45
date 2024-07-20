@@ -1,3 +1,4 @@
+![logo](https://github.com/raunit45/raunit45/blob/main/White%20and%20Gray%20Simple%20Business%20LinkedIn%20Article%20Cover%20Image%20(3).jpg)
 <h1 align="center">Hi 👋, I'm Raunit</h1>
 <h3 align="center">A passionate student from India and i have somewhat hands on web development and eager to learn new about the tech world.</h3>
 <img align = "right" alt = " coding " width = "400" src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlsbDB5MGdnNGF3cHE2Z3Jmb3BjYmU4NzVmcXEwMWVxaXV3ZmM0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
